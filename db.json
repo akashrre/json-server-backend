@@ -1,16 +1,24 @@
 {
-  "posts":[
+  "feedback": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 coming from the backend"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "rating": 9,
+      "text": "This is feedback item 2 coming from the backend"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is feedback item 3 coming from the backend"
+    },
+    {
+      "text": "This is an updated test 8",
+      "rating": 8,
+      "id": 4
     }
   ]
 }
